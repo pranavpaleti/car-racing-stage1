@@ -1,0 +1,16 @@
+{
+  "gameState" : 0,
+  "player1" : {
+    "name" : "pranav"
+  },
+  "player2" : {
+    "name" : "karthika"
+  },
+  "player3" : {
+    "name" : "hudfhje"
+  },
+  "player4" : {
+    "name" : "pranav"
+  },
+  "playerCount" : 4
+}
